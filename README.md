@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @strizxx
 - Interested in data Science 
 - learning data analysis&modeling and azure
 - 📫 How to reach me ->kaiwyou@gmail.com
